@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.exe
+C:\Users\rjhel\source\repos\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.deps.json
+C:\Users\rjhel\source\repos\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.runtimeconfig.json
+C:\Users\rjhel\source\repos\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.dll
+C:\Users\rjhel\source\repos\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.dll
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\refint\DiscountedInventory.dll
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\DiscountedInventory\obj\Debug\net8.0\ref\DiscountedInventory.dll

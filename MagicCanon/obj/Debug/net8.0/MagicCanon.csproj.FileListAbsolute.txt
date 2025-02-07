@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\MagicCanon\bin\Debug\net8.0\MagicCanon.exe
+C:\Users\rjhel\source\repos\MagicCanon\bin\Debug\net8.0\MagicCanon.deps.json
+C:\Users\rjhel\source\repos\MagicCanon\bin\Debug\net8.0\MagicCanon.runtimeconfig.json
+C:\Users\rjhel\source\repos\MagicCanon\bin\Debug\net8.0\MagicCanon.dll
+C:\Users\rjhel\source\repos\MagicCanon\bin\Debug\net8.0\MagicCanon.pdb
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.dll
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\refint\MagicCanon.dll
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.pdb
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\MagicCanon.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\MagicCanon\obj\Debug\net8.0\ref\MagicCanon.dll

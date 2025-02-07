@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhel\\source\\repos\\DiscountedInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74560FD6-F976-4A04-9A58-93E90D41289D}|DiscountedInventory.csproj|c:\\users\\rjhel\\source\\repos\\discountedinventory\\programdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74560FD6-F976-4A04-9A58-93E90D41289D}|DiscountedInventory.csproj|solutionrelative:programdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74560FD6-F976-4A04-9A58-93E90D41289D}|DiscountedInventory.csproj|c:\\users\\rjhel\\source\\repos\\discountedinventory\\oldstoreplusdiscounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74560FD6-F976-4A04-9A58-93E90D41289D}|DiscountedInventory.csproj|solutionrelative:oldstoreplusdiscounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OldStorePlusDiscounts.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\DiscountedInventory\\OldStorePlusDiscounts.cs",
+              "RelativeDocumentMoniker": "OldStorePlusDiscounts.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\DiscountedInventory\\OldStorePlusDiscounts.cs",
+              "RelativeToolTip": "OldStorePlusDiscounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:08:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramDI.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\DiscountedInventory\\ProgramDI.cs",
+              "RelativeDocumentMoniker": "ProgramDI.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\DiscountedInventory\\ProgramDI.cs",
+              "RelativeToolTip": "ProgramDI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:07:37.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

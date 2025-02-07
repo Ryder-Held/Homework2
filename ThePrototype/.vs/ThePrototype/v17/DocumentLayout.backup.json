@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhel\\source\\repos\\ThePrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A9CF5-6CA6-4131-9D36-FE2C7A20D53F}|ThePrototype.csproj|c:\\users\\rjhel\\source\\repos\\theprototype\\higherorlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A9CF5-6CA6-4131-9D36-FE2C7A20D53F}|ThePrototype.csproj|solutionrelative:higherorlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A9CF5-6CA6-4131-9D36-FE2C7A20D53F}|ThePrototype.csproj|c:\\users\\rjhel\\source\\repos\\theprototype\\programtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A9CF5-6CA6-4131-9D36-FE2C7A20D53F}|ThePrototype.csproj|solutionrelative:programtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HigherOrLower.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\ThePrototype\\HigherOrLower.cs",
+              "RelativeDocumentMoniker": "HigherOrLower.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\ThePrototype\\HigherOrLower.cs",
+              "RelativeToolTip": "HigherOrLower.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:23:22.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramTP.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\ThePrototype\\ProgramTP.cs",
+              "RelativeDocumentMoniker": "ProgramTP.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\ThePrototype\\ProgramTP.cs",
+              "RelativeToolTip": "ProgramTP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:08:26.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\BuyingInventory\bin\Debug\net8.0\BuyingInventory.exe
+C:\Users\rjhel\source\repos\BuyingInventory\bin\Debug\net8.0\BuyingInventory.deps.json
+C:\Users\rjhel\source\repos\BuyingInventory\bin\Debug\net8.0\BuyingInventory.runtimeconfig.json
+C:\Users\rjhel\source\repos\BuyingInventory\bin\Debug\net8.0\BuyingInventory.dll
+C:\Users\rjhel\source\repos\BuyingInventory\bin\Debug\net8.0\BuyingInventory.pdb
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.dll
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\refint\BuyingInventory.dll
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.pdb
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\BuyingInventory.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\BuyingInventory\obj\Debug\net8.0\ref\BuyingInventory.dll

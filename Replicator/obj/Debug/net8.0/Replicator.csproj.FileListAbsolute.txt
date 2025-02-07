@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\Replicator\bin\Debug\net8.0\Replicator.exe
+C:\Users\rjhel\source\repos\Replicator\bin\Debug\net8.0\Replicator.deps.json
+C:\Users\rjhel\source\repos\Replicator\bin\Debug\net8.0\Replicator.runtimeconfig.json
+C:\Users\rjhel\source\repos\Replicator\bin\Debug\net8.0\Replicator.dll
+C:\Users\rjhel\source\repos\Replicator\bin\Debug\net8.0\Replicator.pdb
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.dll
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\refint\Replicator.dll
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.pdb
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\Replicator.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\Replicator\obj\Debug\net8.0\ref\Replicator.dll
